@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Kristian",
+    "id": "01",
+    "status": "Coach",
+    "learn": ["React", "Ruby", "Go"],
+    "strengths": "Hmmm",
+    "know": ["JavaScript", "HTML", "CSS"],
+    "language": ["English", "German"],
+    "student-id": ""
+  },
+  {
+    "name": "Amber",
+    "id": "02",
+    "status": "Coach",
+    "learn": ["React", "Python"],
+    "strengths": "Hmmm",
+    "know": ["JavaScript", "HTML", "CSS"],
+    "language": ["English", "German"],
+    "student-id": ""
+  },
+  {
+    "name": "Liska",
+    "id": "03",
+    "status": "Student",
+    "learn": ["React", "Python"],
+    "strengths": "",
+    "know": [],
+    "language": ["English"]
+  }
+]
